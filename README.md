@@ -1,5 +1,5 @@
 # Mini Shell
-Mini Shell is a lightweight Unix shell implemented in C as part of an academic assignment. The project aims to replicate fundamental shell functionalities, such as executing commands, handling input/output redirections, supporting pipelines, and managing background processes.
+Mini Shell is a Unix shell implemented in C as part of an academic assignment. The project aims to replicate fundamental shell functionalities, such as executing commands, handling input/output redirections, supporting pipelines, and managing background processes.
 
 ## Features
 - Command Execution – Runs external programs using execvp().
